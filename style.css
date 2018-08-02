@@ -1,0 +1,102 @@
+
+.header {
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 20px;
+    margin: 0 auto;
+    height: 200px;
+    width: 100%;
+    
+    
+}
+.headertext {
+width: 500px;
+height: 100%;
+background-color: red;
+float: right;
+margin: 0 auto;
+}
+.headerlogo{
+width: 200px;
+height: 100%;
+background-color: blue;
+float: left;
+margin-left: 5%;
+}
+/* The navbar container */
+.topnav {
+    overflow: hidden;
+    background-color: rgb(77, 77, 77);
+    
+
+  
+}
+
+/* Navbar links */
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Gaegu', cursive;
+    font-size: 25px;
+
+    
+}
+
+/* Links - change color on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+body {
+    width: 100%;
+    height: auto;
+    background: linear-gradient(#ffffff,rgb(152, 194, 250));
+    
+}
+.wrapper {
+    width: 900px;
+    margin: 0 auto;
+
+
+}
+#myCarousel {
+
+
+    width:100%;
+    height:300px;
+ 
+
+}
+.carousel-inner {
+
+    width:600px;
+    height:400px;
+
+}
+.carousel-caption {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+
+    font-size: 86px;
+    FONT-FAMILY: monospace;
+}
+.cimage{
+
+width: 100%;
+
+}
+.hometext {
+
+    margin-top: 15%;
+    text-align: left;
+    font-family: 'Gaegu', cursive;
+}
+.footer{
+    margin:0 auto;
+    text-align: center;
+}
